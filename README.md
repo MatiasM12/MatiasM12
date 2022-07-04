@@ -9,7 +9,7 @@ incluyen la implementacion de algunos mis conocimientos hasta el momento.
 -Conocimientos:
 
         -Java
-        -Testing
-        -Manejo de Json
+        -Sql
+        -JavaScript (basico)
 
 Este repositorio es para mostrar algunos de mis proyectos.
