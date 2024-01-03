@@ -17,7 +17,7 @@ Soy un apasionado estudiante de Licenciatura en Sistemas con un fuerte deseo de 
 [Mi Porfolio](https://matiasm12.github.io/Matias.github.io/)
 
 ## Contacto
-- [LinkedIn](https://www.linkedin.com/in/tu-nombre/](https://www.linkedin.com/in/matias-morales-44409a215/)
+- [LinkedIn](https://www.linkedin.com/in/matias-morales-44409a215/)
 - [Correo Electrónico](mailto:matias.agustin.morales@gmail.com)
 
 ¡Gracias por visitar mi perfil! 😊
