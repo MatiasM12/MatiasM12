@@ -1,17 +1,23 @@
--Hola, soy un estudiante de lic. en sitemas sin experiencia laboral 
-pero con muchas ganas de aprender y mejorar mis conocimientos.
+# ¡Hola! 👋 Soy Matias Morales
 
--Me desempeño sin problemas trabajando en equipo
+Soy un apasionado estudiante de Licenciatura en Sistemas con un fuerte deseo de aprender y mejorar mis habilidades tecnológicas.
 
--Actualmente e desarrollado trabajos tanto grupales como individuales
-con distintas tecnologias como java, javascript y node js entre otras.
+## Acerca de Mí
+- 🎓 Actualmente estoy cursando la licenciatura en sistemas.
+- 🌱 Siempre buscando oportunidades para aprender y crecer.
+- 💻 Me encanta trabajar en proyectos tanto en equipo como de manera individual.
+- 🚀 Desarrollo proyectos con tecnologías como Java, JavaScript, y Node.js.
 
--Conocimientos:
+## Conocimientos
+- **Lenguajes de Programación:** Java, JavaScript, C++
+- **Bases de Datos:** Mysql, Postgresql, MongoDB
+- **Desarrollo Web:** HTML, CSS, Node.js
 
-        -Java
-        -Sql
-        -JavaScript
-        -Html y Css
-        -Node js
+## Porfolio web
+[Mi Porfolio](https://matiasm12.github.io/Matias.github.io/)
 
-Este repositorio es para mostrar algunos de mis proyectos.
+## Contacto
+- [LinkedIn]([https://www.linkedin.com/in/tu-nombre/](https://www.linkedin.com/in/matias-morales-44409a215/))
+- [Correo Electrónico](mailto:matias.agustin.morales@gmail.com)
+
+¡Gracias por visitar mi perfil! 😊
