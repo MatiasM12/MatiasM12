@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Matias Morales
 
-Soy un apasionado estudiante de Licenciatura en Sistemas con un fuerte deseo de aprender y mejorar mis habilidades tecnológicas.
+Soy un apasionado estudiante de Licenciatura en Sistemas con muchas ganas de aprender y mejorar mis habilidades.
 
 ## Acerca de Mí
 - 🎓 Actualmente estoy cursando la licenciatura en sistemas.
