@@ -23,8 +23,8 @@ Soy un apasionado estudiante de Licenciatura en Sistemas con muchas ganas de apr
 
 <p align="center">
 <a href="https://github.com/MatiasM12">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatiasM12&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatiasM12&layout=compact&langs_count=8&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MatiasM12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MatiasM12&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
