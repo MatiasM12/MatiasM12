@@ -12,13 +12,12 @@ Soy un apasionado estudiante de Licenciatura en Sistemas con muchas ganas de apr
 ![My Skills](https://skillicons.dev/icons?i=java,spring,angular,mysql,postgresql,mongo,javascript,html,css&theme=dark)
 
 <div >
-<h2 >Porfolio Web 👨🏻‍💻</h2>
+<h2 >Porfolio Web </h2>
 <p align="left">
     <a href="https://matiasm12.github.io/Matias.github.io/" title="Go to Source">
     <img align="center" width=50%  src="https://github.com/MatiasM12/MatiasM12/assets/86579814/ce7e535e-7d25-4935-a9eb-eeccd9a5a433"   alt="VIDEO" /></a>
 </p>    
 </div>
-<br><br>
 
 ## GitHub Analytics
 
