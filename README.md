@@ -28,7 +28,7 @@ Puedes ver más sobre mi trabajo en mi portafolio:
 🔗 **[Visitar Portafolio](https://matiasm12.github.io/Matias.github.io/)**  
 
 <a href="https://matiasm12.github.io/Matias.github.io/" title="Go to Source">
-    <img align="center" width="50%" src="https://github.com/MatiasM12/MatiasM12/assets/86579814/ce7e535e-7d25-4935-a9eb-eeccd9a5a433" alt="Portafolio Web"/>
+    <img align="center" width="50%" src="https://github.com/user-attachments/assets/654d8d8f-c23a-4670-b0fa-738e759a387e" alt="Portafolio Web"/>
 </a>  
 
 ## 📊 **GitHub Analytics**  
