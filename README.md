@@ -1,14 +1,11 @@
 # ¡Hola! 👋 Soy Matías Morales  
 
-📌 **Desarrollador de Software | Java | Spring Boot | JavaScript | Angular | SQL | Machine Learning | IoT**  
-
 Soy un **desarrollador de software** con experiencia en múltiples tecnologías y un gran interés en el aprendizaje continuo. Actualmente, estoy finalizando la **Licenciatura en Sistemas** y busco oportunidades para aplicar mis conocimientos en entornos profesionales.  
 
 ## 🚀 **Sobre mí**  
 - 🎓 Estudiante avanzado de **Licenciatura en Sistemas**, con experiencia en desarrollo web, machine learning y sistemas embebidos.  
 - 💻 Me apasiona crear soluciones tecnológicas, tanto en equipo como de manera individual.  
 - 🌱 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
-- 📂 En mi GitHub encontrarás proyectos de **desarrollo web, machine learning y hardware dedicado**.  
 
 ## 🛠️ **Tecnologías y Herramientas**  
 
