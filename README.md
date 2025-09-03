@@ -1,6 +1,6 @@
-# ¡Hola! 👋 Soy Matías Morales  
+<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f1f3222f-2395-4a65-b49e-cf0cfba08e84" />
 
-Soy un **desarrollador de software** con experiencia en múltiples tecnologías y un gran interés en el aprendizaje continuo. Actualmente, estoy finalizando la **Licenciatura en Sistemas** y busco oportunidades para aplicar mis conocimientos en entornos profesionales.  
+Con experiencia en múltiples tecnologías y un gran interés en el aprendizaje continuo. Actualmente, estoy finalizando la **Licenciatura en Sistemas**.  
 
 ## 🚀 **Sobre mí**  
 - 🎓 Estudiante avanzado de **Licenciatura en Sistemas**, con experiencia en desarrollo web, machine learning y sistemas embebidos.  
