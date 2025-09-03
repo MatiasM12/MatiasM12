@@ -1,4 +1,4 @@
-<img width="1700" height="460" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f1f3222f-2395-4a65-b49e-cf0cfba08e84" />
+<img width="1700" height="340" alt="github-header-banner (4)" src="https://github.com/user-attachments/assets/ac7b0a63-78e0-4f71-8b73-a08dd05fe455" />
 
 Con experiencia en múltiples tecnologías y un gran interés en el aprendizaje continuo. Actualmente, estoy finalizando la **Licenciatura en Sistemas**.  
 
