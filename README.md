@@ -3,9 +3,9 @@
 Con experiencia en múltiples tecnologías y un gran interés en el aprendizaje continuo. Actualmente, estoy finalizando la **Licenciatura en Sistemas**.  
 
 ## 🚀 **Sobre mí**  
-- 🎓 Estudiante avanzado de **Licenciatura en Sistemas**, con experiencia en desarrollo web, machine learning y sistemas embebidos.  
-- 💻 Me apasiona crear soluciones tecnológicas, tanto en equipo como de manera individual.  
-- 🌱 Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
+- Estudiante avanzado de **Licenciatura en Sistemas**, con experiencia en desarrollo web, machine learning y sistemas embebidos.  
+- Me apasiona crear soluciones tecnológicas, tanto en equipo como de manera individual.  
+- Siempre buscando aprender nuevas tecnologías y mejorar mis habilidades.  
 
 ## 🛠️ **Tecnologías y Herramientas**  
 
@@ -41,7 +41,6 @@ Puedes ver más sobre mi trabajo en mi portafolio:
 
 Si estás interesado en colaborar o tienes alguna oportunidad laboral, no dudes en contactarme:  
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-morales-44409a215/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.agustin.morales@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-morales-44409a215/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matias.agustin.morales@gmail.com)  [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@matymm12)
 
 😊 ¡Gracias por visitar mi perfil!  
